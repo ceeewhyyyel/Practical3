@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practical3</string>
+
+    <string-array name="agegroup">
+        <item>Less than 5</item>
+        <item>5-10</item>
+        <item>11-16</item>
+        <item>17-25</item>
+        <item>26-30</item>
+        <item>31-40</item>
+        <item>41-55</item>
+        <item>More than 55</item>
+    </string-array>
+
+
+</resources>
